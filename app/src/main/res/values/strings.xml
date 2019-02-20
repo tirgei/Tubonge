@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Tubonge</string>
+    <string name="placeholder">Placeholder text</string>
+
+    <!-- Empty state -->
+    <string name="empty_inbox">No chats found</string>
 </resources>
