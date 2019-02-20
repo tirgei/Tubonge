@@ -29,4 +29,11 @@
 
     </androidx.appcompat.widget.Toolbar>
 
+    <include
+        android:id="@+id/emptyState"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        layout="@layout/empty_state"
+        android:visibility="gone"/>
+
 </RelativeLayout>
