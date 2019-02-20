@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="nil">0dp</dimen>
+    <dimen name="slight_elevation">1.5dp</dimen>
+
+    <!-- spacing -->
+    <dimen name="padding_xxsmall">2dp</dimen>
+    <dimen name="padding_xsmall">3dp</dimen>
+    <dimen name="padding_small">5dp</dimen>
+    <dimen name="padding_normal">10dp</dimen>
+    <dimen name="padding_medium">15dp</dimen>
+    <dimen name="padding_large">20dp</dimen>
+    <dimen name="padding_xlarge">25dp</dimen>
+    <dimen name="padding_xxlarge">30dp</dimen>
+    <dimen name="padding_xxxlarge">35dp</dimen>
+
+    <!-- text -->
+    <dimen name="text_xsmall">11sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_medium">13sp</dimen>
+    <dimen name="text_normal">14sp</dimen>
+    <dimen name="text_large">15sp</dimen>
+    <dimen name="text_xlarge">16sp</dimen>
+    <dimen name="text_xxlarge">17sp</dimen>
+    <dimen name="text_xxxlarge">20sp</dimen>
+
+    <!-- avatar -->
+    <dimen name="avatar_chat">50dp</dimen>
+    <dimen name="avatar_notif">40dp</dimen>
+    <dimen name="avatar_profile">110dp</dimen>
+    <dimen name="avatar_request">70dp</dimen>
+
+
+</resources>
