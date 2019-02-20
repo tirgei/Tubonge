@@ -4,4 +4,17 @@
 
     <!-- Empty state -->
     <string name="empty_inbox">No chats found</string>
+
+    <!-- Info -->
+    <string name="info_phone_number">Enter phone number to login</string>
+    <string name="info_login">We will send you an SMS verification</string>
+
+    <!-- Buttons -->
+    <string name="button_sign_in">SIGN IN</string>
+
+    <string name="phone_number">Phone number</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
