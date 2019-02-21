@@ -22,7 +22,7 @@ class AuthActivity : BaseActivity() {
             verifyLogin.show()
         }
 
-        verify.setOnClickListener { launchActivity(MainActivity::class.java) }
+        verify.setOnClickListener { launchActivity(RegisterActivity::class.java) }
     }
 
 
