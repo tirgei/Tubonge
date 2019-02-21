@@ -8,9 +8,12 @@
     <!-- Info -->
     <string name="info_phone_number">Enter phone number to login</string>
     <string name="info_login">We will send you an SMS verification</string>
+    <string name="info_login_verify">Please enter the code sent via SMS below</string>
 
     <!-- Buttons -->
     <string name="button_sign_in">SIGN IN</string>
+    <string name="button_verify">VERIFY</string>
+    <string name="button_change_phone">Change Number</string>
 
     <string name="phone_number">Phone number</string>
 
