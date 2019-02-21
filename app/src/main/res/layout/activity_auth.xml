@@ -76,7 +76,7 @@
                 android:id="@+id/phone_text"
                 android:textSize="14sp"
                 android:inputType="phone"
-                android:hint="@string/phone_number"
+                android:hint="@string/hint_phone"
                 tools:ignore="Autofill"/>
 
         </LinearLayout>
